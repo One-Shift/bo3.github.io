@@ -1,7 +1,7 @@
 $(document).ready(function() {
 
-    $('#fullpage').fullpage({
-        sectionsColor: ['#177679']
-    });
+	// $('#fullpage').fullpage({
+	// 	sectionsColor: ['#177679']
+	// });
 
 });
